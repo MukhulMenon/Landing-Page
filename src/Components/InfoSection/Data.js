@@ -10,7 +10,7 @@ export const homeObjOne={
     imgStart :false,
     img :require('../../images/svg1.png'),
     alt:'Github',
-    link:'https://undraw.co/illustrations',
+    link:'https://github.com/MukhulMenon/Landing-Page',
     dark:true,
     primary:true,
     darkText:true
